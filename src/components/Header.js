@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <>
       <div className={`${open ? " bg-darkBlue" : ""}`}>
-        <div className="flex justify-between lg:grid grid-cols-2 h-14 items-center container md:mx-auto px-4">
+        <div className="flex justify-between lg:grid grid-cols-2 h-14 items-center pt-6">
           <div className="flex justify-items-start">
             <span className="font-semibold text-xl sm:text-2xl">REST</span>
             <Star />
