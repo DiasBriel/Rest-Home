@@ -1,7 +1,7 @@
 function Title() {
   return (
-    <div>
-      <h1 className="mb-4">
+    <div className="flex flex-col items-start justify-center">
+      <h1 className="mb-6">
         Get in your own <br /> space.
       </h1>
       <h3>
