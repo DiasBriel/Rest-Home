@@ -12,6 +12,13 @@ body {
   background-color: #102443;
 }
 
+h1 {
+  @apply text-7xl font-bold;
+}
+h3 {
+  @apply text-2xl;
+}
+
 html {
   @apply text-white;
 }
