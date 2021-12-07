@@ -8,6 +8,11 @@ module.exports = {
         lightOrange: "#FF9300",
         darkBlue: "#061224",
       },
+      spacing: {
+        "15vh": "15vh",
+        "1/4vh": "25vh",
+        mvh: "50vh",
+      },
     },
   },
   variants: {
