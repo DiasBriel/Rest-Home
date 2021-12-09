@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Menu from "../icons/Menu";
-import Star from "../icons/Star";
+import Menu from "../assets/icons/Menu";
+import Star from "../assets/icons/Star";
 
 const menuItems = ["Services", "Community", "About"];
 
