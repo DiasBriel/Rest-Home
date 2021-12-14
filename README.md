@@ -1,4 +1,4 @@
-<h1 align="center">Responsible Home Page :star2:</h1>
+<h1 align="center">Responsive Home Page :star2: (in production!)</h1>
 
 <p align="center">This app explores a responsive home page using <strong>Tailwindcss</strong> and <strong>React JS</strong>.</p>
 
